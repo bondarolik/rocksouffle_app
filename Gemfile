@@ -9,14 +9,13 @@ gem 'puma', '~> 5.0'
 # Assets
 gem 'sass-rails', '>= 6'
 gem 'webpacker', '~> 5.0'
-gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 gem 'hotwire-rails'
 gem 'draper'
 
 # Delayed jobs
 # Use Redis adapter to run Action Cable in production
-# gem 'redis', '~> 4.0'
+gem 'redis', '~> 4.0'
 # gem 'redis-namespace'
 # gem 'connection_pool'
 # gem 'sidekiq'

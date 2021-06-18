@@ -211,9 +211,6 @@ GEM
     tilt (2.0.10)
     turbo-rails (0.5.11)
       rails (>= 6.0.0)
-    turbolinks (5.2.1)
-      turbolinks-source (~> 5.2)
-    turbolinks-source (5.2.0)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2021.1)
@@ -265,7 +262,6 @@ DEPENDENCIES
   sass-rails (>= 6)
   selenium-webdriver
   spring
-  turbolinks (~> 5)
   tzinfo-data (>= 1.2016.7)
   web-console (>= 4.1.0)
   webdrivers
